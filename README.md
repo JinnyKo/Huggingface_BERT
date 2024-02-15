@@ -5,4 +5,7 @@
 
 ## Text Classification
 ### 입력: 문장 
-### 출력: Class에 대한 index , class의 확률
+### 출력: Class에 대한 index , class별 확률 값  
+![image](https://github.com/JinnyKo/Text-Classification-using-BERT/assets/93627969/249ed8a5-29c7-4790-9566-b6faac14c990)
+![Uploading image.png…]()
+

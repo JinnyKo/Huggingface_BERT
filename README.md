@@ -32,6 +32,7 @@
 - (해 당 프로젝트에서는 단독으로 BPE 쓰겠음)
 
   >Huggingface 내부적에서 Tokenizer 학습 하는 방법 
+
 ![image](https://github.com/JinnyKo/Text-Classification-using-BERT/assets/93627969/73754860-6dba-4b0d-9a87-197b481660e3)
 
   

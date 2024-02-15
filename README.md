@@ -22,7 +22,7 @@
 > Dataloader의 파라미터 collate_fn 으로 해결해야됨: 미니배치 element들을 list로 만들어 주기 때문, List를 받아 가장 긴 문장 기준으로 padding 채워 넣고, 
 미니배치 텐서로 만들어서 반환
 
-## Huggungface Tokenizer 
+## Huggingface Tokenizer 
 ### Subword Segmentation:
 - 많은 언어들에서 단어는 더 작은 의미 단위들이 모여서 구성됨, Data-driven (통계 방식, 사전을 만드는게 아닌)으로 해결 하는 방법.
   한자나 라틴어등 (단어의 뜻의 기원을 더 쪼개는 단위)

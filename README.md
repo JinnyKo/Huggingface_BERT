@@ -7,5 +7,6 @@
 ### 입력: 문장 
 ### 출력: Class에 대한 index , class별 확률 값  
 ![image](https://github.com/JinnyKo/Text-Classification-using-BERT/assets/93627969/249ed8a5-29c7-4790-9566-b6faac14c990)
-![Uploading image.png…]()
+![image](https://github.com/JinnyKo/Text-Classification-using-BERT/assets/93627969/d5eb44bc-345c-4b25-8d1f-ed67fa9d00f4)
+
 

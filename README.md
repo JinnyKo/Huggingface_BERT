@@ -10,7 +10,7 @@
 
 ## Data Loading Procedure 
 ### 1. Read & Split
-### 2. Preprocessing
+### 2. Preprocessing 
    :*중요* BP 수행은 꼭 training set (Validation set 이나 test set이 BP 과정에 들어가면 안됨)
    ==> BP 자체도 모델링 하는 과정으로 볼 수 있기 때문에 Validation set 이나 test set이 BP 과정에 들어가면 "Cheating" 한거라고 볼 수 있음=> overfitting
 ### 3. Iterator: DataLoader 활용
